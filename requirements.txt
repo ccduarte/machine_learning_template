@@ -1,0 +1,18 @@
+
+pandas
+numpy
+ipykernel
+ydata-profiling
+skimpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+scikit-image
+statsmodels
+plotly
+# jupyterlab
+# jupyterlab-git
+# jupyterlab-lsp
+# jupyterlab-code-formatter
+psycopg2-binary
